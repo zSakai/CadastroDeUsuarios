@@ -1,0 +1,7 @@
+E:\PROJETOS VISUAL STUDIO\cadastroDeUsuarios\cadastroDeUsuarios\obj\Debug\cadastroDeUsuarios.csproj.AssemblyReference.cache
+E:\PROJETOS VISUAL STUDIO\cadastroDeUsuarios\cadastroDeUsuarios\obj\Debug\cadastroDeUsuarios.csproj.CoreCompileInputs.cache
+E:\PROJETOS VISUAL STUDIO\cadastroDeUsuarios\cadastroDeUsuarios\bin\Debug\cadastroDeUsuarios.exe.config
+E:\PROJETOS VISUAL STUDIO\cadastroDeUsuarios\cadastroDeUsuarios\bin\Debug\cadastroDeUsuarios.exe
+E:\PROJETOS VISUAL STUDIO\cadastroDeUsuarios\cadastroDeUsuarios\bin\Debug\cadastroDeUsuarios.pdb
+E:\PROJETOS VISUAL STUDIO\cadastroDeUsuarios\cadastroDeUsuarios\obj\Debug\cadastroDeUsuarios.exe
+E:\PROJETOS VISUAL STUDIO\cadastroDeUsuarios\cadastroDeUsuarios\obj\Debug\cadastroDeUsuarios.pdb
