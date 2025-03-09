@@ -90,16 +90,16 @@ namespace cadastroDeUsuarios
 
         public void ShowUsers()
         {
-            
-            bool found = false;
+            if (users.Count == 0)
+            {
+                Console.WriteLine("Nenhum usuário cadastrado.");
+                return;
+            }
+
+            Console.WriteLine("Usuários cadastrados:");
             foreach (var user in users)
             {
-                Console.WriteLine("Usuários cadastrados:");
                 Console.WriteLine($"Nome: {user.Name}, Email: {user.Email}, Idade: {user.Age}");
-            }
-            if (!found)
-            {
-                Console.WriteLine("Usuário não encontrado.");
             }
         }
 
