@@ -10,11 +10,18 @@ namespace cadastroDeUsuarios
     {
         static void Main(string[] args)
         {
-            // Criar uma instância da classe Usuario
-            User user = new User("Lucas", "numsei@gmail.com", 16, "03Lu..17");
+            // Cria uma instância do sistema de usuários
+            System System = new System();
 
-            // Chamar o método DisplayInformation para exibir as informações
-            user.DisplayInformation();
+            // Chama o método de exibição do menu
+            System.Menu();
         }
     }
+
+
+
+
+
 }
+    
+
